@@ -1,1 +1,1 @@
-# ROM Rails
+Ruby on Rails app, utilizing ROM within this app. Frontend is Vue.js.
